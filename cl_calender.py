@@ -1,5 +1,5 @@
 """
-This is a Command Line Calender
+This is a Command Line Calender a little modification
 """
 from time import sleep, strftime
 User_Name = raw_input("What is your name please: ")
